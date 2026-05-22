@@ -1,0 +1,5 @@
+spring.application.name=sample-app
+server.port=8080
+
+logging.config=classpath:logback-spring.xml
+logging.level.com.demo=INFO
